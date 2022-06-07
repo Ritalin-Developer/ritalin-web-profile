@@ -1,7 +1,7 @@
 {
   "name": "ritalin-web-profile",
   "version": "1.0.0",
-  "description": "",
+  "description": "Ritalin Company - Web Profile",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
